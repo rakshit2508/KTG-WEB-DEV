@@ -742,6 +742,9 @@ h2{
 }
 .know-more{
 	color: #fff;
+	border: 1px solid white;
+	text-decoration: none;
+	
 }
 .know-more:hover{
 	background: grey;
